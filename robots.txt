@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /includes/
+Disallow: /img/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /js/
+
+sitemap: https://github.com/Leiaantou/LeiaAntou_4_14092021/sitemap.txt
